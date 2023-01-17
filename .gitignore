@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+dist/
+tmp/
+temp/
+
+database.sqlite
+package-lock.json
+yarn.lock
